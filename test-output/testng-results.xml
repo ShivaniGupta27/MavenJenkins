@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21077" started-at="2021-02-07T17:09:45 IST" finished-at="2021-02-07T17:10:06 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21077" started-at="2021-02-07T17:09:45 IST" finished-at="2021-02-07T17:10:06 IST">
+      <class name="com.qa.sut.testClasses.ConfigurationTest">
+        <test-method status="PASS" signature="launchBrowserChrome()[pri:0, instance:com.qa.sut.testClasses.ConfigurationTest@13c27452]" name="launchBrowserChrome" duration-ms="8365" started-at="2021-02-07T17:09:45 IST" finished-at="2021-02-07T17:09:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserChrome -->
+        <test-method status="PASS" signature="search()[pri:0, instance:com.qa.sut.testClasses.ConfigurationTest@13c27452]" name="search" duration-ms="12654" started-at="2021-02-07T17:09:53 IST" finished-at="2021-02-07T17:10:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+      </class> <!-- com.qa.sut.testClasses.ConfigurationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
